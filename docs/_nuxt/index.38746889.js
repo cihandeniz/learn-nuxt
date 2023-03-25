@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{o as c,c as n}from"./entry.6196bb68.js";const o={};function r(t,a){return c(),n("div",null," Index page ")}const f=e(o,[["render",r]]);export{f as default};

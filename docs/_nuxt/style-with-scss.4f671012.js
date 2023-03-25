@@ -1,1 +1,0 @@
-import{_ as s}from"./_plugin-vue_export-helper.c27b6911.js";import{o as e,c as t}from"./entry.344f89d3.js";const c={},_={class:"basic"};function o(n,r){return e(),t("div",_," Styled with Scss ")}const l=s(c,[["render",o]]);export{l as default};

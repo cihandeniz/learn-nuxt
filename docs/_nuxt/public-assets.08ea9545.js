@@ -1,1 +1,0 @@
-import{o as s,c as o,a as e}from"./entry.344f89d3.js";import{_ as t}from"./_plugin-vue_export-helper.c27b6911.js";const c=""+globalThis.__publicAssetsURL("logo.png"),_={},n=e("img",{src:c},null,-1),r=[n];function a(l,i){return s(),o("div",null,r)}const d=t(_,[["render",a]]);export{d as default};

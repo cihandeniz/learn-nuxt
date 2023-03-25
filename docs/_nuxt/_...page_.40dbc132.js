@@ -1,1 +1,0 @@
-import{_ as o}from"./_plugin-vue_export-helper.c27b6911.js";import{o as r,c,b as e,a,t as s}from"./entry.6196bb68.js";const n={},l=a("code",null,"{{ $route.params.page }}",-1);function _(t,i){return r(),c("div",null,[e(" Page with catch all route "),a("div",null,[l,e(" is '"),a("code",null,s(t.$route.params.page),1),e("' ")])])}const u=o(n,[["render",_]]);export{u as default};
